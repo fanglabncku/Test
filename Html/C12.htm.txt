@@ -1,0 +1,11 @@
+<!-- HTML 網頁:Ch1_2_1.htm -->
+<html>
+<head>
+<title>HTML 測試網頁</title>
+</head>
+<body>
+<h3>HTML 網頁</h3>
+<hr>
+<p>第一頁 HTML 網頁</p>
+</body>
+</html>
